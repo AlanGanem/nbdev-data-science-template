@@ -1,5 +1,5 @@
 # [`nbdev`](https://nbdev.fast.ai/) Data Science template
-> This template merges <a href='https://nbdev.fast.ai/'>cookiecutter](https://drivendata.github.io/cookiecutter-data-science/) 's data science project template with [nbdev</a> software development tool. some other features to the folde structures are also included, based on this developer's experience with data science projects.
+> This template merges [cookiecutter](https://drivendata.github.io/cookiecutter-data-science/)'s data science project template with [nbdev](https://nbdev.fast.ai/) software development tool. some other features to the folde structures are also included, based on this developer's experience with data science projects.
 
 
 # README.md Template below:
